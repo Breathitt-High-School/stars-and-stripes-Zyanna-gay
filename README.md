@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/Breathitt-High-School/stars-and-stripes-Zyanna-gay)](https://repl.it/github/Breathitt-High-School/stars-and-stripes-Zyanna-gay)
 # Stars-And-Stripes
 
 ## Lab Goal :  The lab was designed to teach you how to write a class and to write methods for that class.  
